@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url(http://yesofcorsa.com/wp-content/uploads/2020/05/4K-Weather-Best-Wallpaper-1024x576.jpg) ;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.weather-container {
+    text-align: center;
+    
+    padding: 70px;
+    border-radius:100px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
